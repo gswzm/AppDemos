@@ -23,10 +23,12 @@ dependencies {
 3.  在`application`中初始化 需要传两个参数 第二个参数是网络访问的公共接口
 
 ```
-  @Override
+public class MyApplication extends Application {
+
+    @Override
     public void onCreate() {
         super.onCreate();
-      
-        UtilsLibHelper.getInstance().init(this,Contants.Url);
+         UtilsLibHelper.getInstance().init(this,Contants.Url);//默认初始化
     }
+}
 ```
