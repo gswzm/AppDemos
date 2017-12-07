@@ -32,3 +32,12 @@ public class MyApplication extends Application {
     }
 }
 ```
+4.  在`manifest.xml` 中配置
+```
+...
+
+<application
+    android:name=".MyApplication"
+    ...
+ />
+```
