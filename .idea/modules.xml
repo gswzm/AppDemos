@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AppDemos.iml" filepath="$PROJECT_DIR$/AppDemos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crashlibs/crashlibs.iml" filepath="$PROJECT_DIR$/crashlibs/crashlibs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/im/im.iml" filepath="$PROJECT_DIR$/im/im.iml" />
+      <module fileurl="file://$PROJECT_DIR$/livelibs/livelibs.iml" filepath="$PROJECT_DIR$/livelibs/livelibs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/srceendemo/srceendemo.iml" filepath="$PROJECT_DIR$/srceendemo/srceendemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/utilslib/utilslib.iml" filepath="$PROJECT_DIR$/utilslib/utilslib.iml" />
+    </modules>
+  </component>
+</project>
