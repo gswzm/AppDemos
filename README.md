@@ -1,6 +1,7 @@
 # 这里有常用的工具集合
 
 ### 其中异常错误日志和网络访问依赖方法
+[![](https://jitpack.io/v/gswzm/AppDemos.svg)](https://jitpack.io/#gswzm/AppDemos)
 
 1.   在主程序`builde.gradle`中添加
 ```
