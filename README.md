@@ -19,8 +19,7 @@ dependencies {
     compile 'com.github.gswzm:AppDemos:1.0'
 }
 ```
-用法：
-在`application`中初始化 需要传两个参数 第二个参数是网络访问的公共接口
+3.  在`application`中初始化 需要传两个参数 第二个参数是网络访问的公共接口
 
 ```
   @Override
